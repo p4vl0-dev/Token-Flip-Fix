@@ -22,7 +22,7 @@ This simple process guarantees that the connection between the actor and its tok
 
 1.  Inside Foundry VTT, go to the **Add-on Modules** tab.
 2.  Click **Install Module** and use the following Manifest URL:
-    `https://github.com/YourUsername/YourRepoName/releases/latest/download/module.json`
+    `https://github.com/p4vl0-dev/Token-Flip-Fix/releases/latest/download/module.json`
 
 ## Feedback and Bug Reports
 
