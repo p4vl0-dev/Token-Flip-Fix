@@ -1,0 +1,30 @@
+{
+  "id": "tokenflip-fix",
+  "title": "Token Flip Fix",
+  "description": "Fixes TokenFlip module token faces assignment",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "esmodules": [
+    "scripts/init.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "tokenflip",
+        "type": "module",
+        "compatibility": {
+          "verified": "3.0.0"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "YourName",
+      "discord": "YourDiscord#1234"
+    }
+  ]
+}
