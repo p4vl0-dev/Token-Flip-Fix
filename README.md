@@ -1,6 +1,6 @@
 # Tokenflip Fix
 
-A simple Foundry Virtual Tabletop module (compatible with versions 12 and 13) that fixes a critical issue with token alternate faces (`faces`) when importing or migrating actors from one world to another. This module is a fix for the original **Tokenflip** module.
+A simple Foundry Virtual Tabletop module (compatible with versions 12 and 13) that fixes a critical issue with token alternate faces (`faces`) when importing or migrating actors from one world to another. This module is a fix for the original [Tokenflip](https://foundryvtt.com/packages/tokenflip) module.
 
 ## What is this module for?
 
