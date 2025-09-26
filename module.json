@@ -26,5 +26,7 @@
       "name": "YourName",
       "discord": "YourDiscord#1234"
     }
-  ]
+  ],
+  "manifest": "https://github.com/p4vl0-dev/Token-Flip-Fix/releases/download/stable/module.json",
+  "download": "https://github.com/p4vl0-dev/Token-Flip-Fix/releases/download/stable/tokenflip-fix.zip"
 }
